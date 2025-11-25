@@ -30,10 +30,9 @@ The dashboard aims to support data-driven decision-making for executives and bus
 7. Combined all charts into a unified performance panel
 
 ## Dashboard View 
--<a href"">Dashboard view</a>
+- <a href="https://github.com/Allkafi/excel-analytics-project-2-Ecommerce-Sales-Analysis-Dashboard-/blob/main/WhatsApp%20Image%202025-11-25%20at%204.16.22%20PM.jpeg">Dashboard view</a>
 
-
-## 🔍 Project Insights
+## Project Insights
 
 - **Sales increased by ~15% YoY**, indicating strong business growth  
 - **Profit decreased by ~21%**, suggesting rising costs or lower margins  
@@ -45,9 +44,7 @@ The dashboard aims to support data-driven decision-making for executives and bus
 - Customer **Consumer segment** dominates in most years  
 - Profit margin fell by ~31%, requiring operational improvements
 
----
-
-## 🧾 Final Conclusion
+## Final Conclusion
 
 The ecommerce business is expanding in terms of sales and order volume, but profit and margins are declining.  
 Strategic improvements should focus on:
@@ -59,9 +56,7 @@ Strategic improvements should focus on:
 
 This dashboard enables leadership to make **quick, data-driven decisions** for category planning, inventory, and pricing.
 
----
-
-## 🧰 Tools Used
+## Tools Used
 
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
@@ -70,10 +65,7 @@ This dashboard enables leadership to make **quick, data-driven decisions** for c
 - Map Visualization  
 - Data Cleaning & Analysis  
 
----
-
-## ✍️ Author  
+## Author  
 **Abdul Ali Kafi**
 
----
 
