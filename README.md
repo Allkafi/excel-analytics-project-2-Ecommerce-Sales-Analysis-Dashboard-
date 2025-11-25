@@ -66,6 +66,6 @@ This dashboard enables leadership to make **quick, data-driven decisions** for c
 - Data Cleaning & Analysis  
 
 ## Author  
-**Abdul Ali Kafi**
+**Abdul All Kafi**
 
 
