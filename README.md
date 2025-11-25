@@ -1,15 +1,13 @@
 # Ecommerce Sales Analysis Dashboard
 
-## 📌 Project Objective
+## Project Objective
 To visualize, analyze, and interpret ecommerce business performance across multiple KPIs—Sales, Profit, Quantity, Orders, and Profit Margin—while understanding YoY trends, category-wise contribution, state-level performance, and customer/segment behaviors.
 The dashboard aims to support data-driven decision-making for executives and business managers.
----
 
 ## Data Used
+- <a href="https://github.com/Allkafi/excel-analytics-project-2-Ecommerce-Sales-Analysis-Dashboard-/blob/main/Ecommerce%20Sales%20Analysis%202011-2014%20By%20Abdul%20All%20Kafi.xlsx">Data set</a>
 
----
-
-## ❓ Questions (KPIs)
+## Questions (KPIs)
 
 - Total Sales, Profit, Quantity Sold, Number of Orders & Profit Margin  
 - Year-over-Year (YoY) performance  
@@ -21,9 +19,7 @@ The dashboard aims to support data-driven decision-making for executives and bus
 - Which segments and regions contribute most to sales?  
 - Impact of filters (Year, Region, Segment)  
 
----
-
-## 🛠 Process
+## Process
 
 1. Cleaned and standardized the raw dataset  
 2. Verified data types and removed inconsistencies  
@@ -33,14 +29,9 @@ The dashboard aims to support data-driven decision-making for executives and bus
 6. Added slicers for **Year, Segment, Region** to make dashboard dynamic  
 7. Combined all charts into a unified performance panel
 
----
+## Dashboard View 
+-<a href"">Dashboard view</a>
 
-## 📊 Dashboard  
-**Download & View:**  
-👉 *(Insert your dashboard Excel file link here)*  
-👉 *(Insert dashboard image or GIF here)*
-
----
 
 ## 🔍 Project Insights
 
