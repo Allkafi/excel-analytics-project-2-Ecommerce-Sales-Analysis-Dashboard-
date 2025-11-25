@@ -1,23 +1,11 @@
-# Ecommerce Sales Analysis Dashboard (2011–2014)
-
-Interactive performance dashboard created using **Microsoft Excel** to analyze sales, profit, category contribution, YoY trends, and customer behavior.
-
----
+# Ecommerce Sales Analysis Dashboard
 
 ## 📌 Project Objective
-To analyze ecommerce business performance from **2011–2014** and help business leaders understand sales trends, profit behavior, category-wise performance, and state-wise demand in order to support growth planning.
-
+To visualize, analyze, and interpret ecommerce business performance across multiple KPIs—Sales, Profit, Quantity, Orders, and Profit Margin—while understanding YoY trends, category-wise contribution, state-level performance, and customer/segment behaviors.
+The dashboard aims to support data-driven decision-making for executives and business managers.
 ---
 
-## 📊 Data Used
-- Sales, Profit, Orders, Quantity, Profit Margin  
-- Customer Segmentation (Consumer, Corporate, Home Office)  
-- Geographic Data (State, Region)  
-- Product Category & Sub-category Information  
-- Time Series (Order Date: 2011–2014)
-
-Dataset Source: *(Internal Excel file as used in dashboard)*  
-Dashboard Preview → *(Insert your GitHub image link here)*
+## Data Used
 
 ---
 
